@@ -1,1 +1,6 @@
-use at your own risk
+Use at your own risk.
+
+Python3 requirements: pycrypto, pbkdf2.
+
+Save files are stored on the internal storage in \Android\data\com.bethsoft.falloutshelter\files\VaultX.sav
+File content after decryption is a huge json formatted dictionary holding every aspect of the game. Feel free to dig through it.
