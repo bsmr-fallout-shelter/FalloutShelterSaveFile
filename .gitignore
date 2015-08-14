@@ -1,0 +1,5 @@
+.project
+.pydevproject
+apk/*
+**/__pycache__
+Vault*
